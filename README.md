@@ -1,4 +1,4 @@
-# tesla-inventory
+# Used Tesla Model 3 Inventory
 Python app for the Tesla Inventory API
 
 The used inventory browser at https://www.tesla.com/inventory/used/ does not show all information about the cars.
@@ -9,4 +9,4 @@ You can track price changes by running the program once daily.
 
 The other file, photos.py, is intended to find used photos of the car using the API. Tesla used to show these on their website, but they do not do it anymore.
 There is also a visualization file for reading the generated .csv files in a path:
-![Image of Price History Chart](/assets/example.png)
+![img.png](img.png)

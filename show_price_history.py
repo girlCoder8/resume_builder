@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import os, sys
 
 vin = '5YJ3E1EA0HF001099'
-path = 'C:/Users/Kaeden/Files/tesla-inventory'
+path = '/Users/apple/Downloads/tesla-model3s.csv'
 
 names = []
 values = []
