@@ -1,4 +1,5 @@
 # Used Tesla Model 3 Inventory
+
 Python app for the Tesla Inventory API
 
 The used inventory browser at https://www.tesla.com/inventory/used/ does not show all information about the cars.
